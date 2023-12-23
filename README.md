@@ -8,3 +8,8 @@ This repository contains a collection of sql scripts I created based on the data
 4. [Contributing] (#Contributing)
 5. [License] (#License)
 
+## Introduction
+
+## Folder Structure
+The project is organised with the following folder structure:
+- **sql_scripts**: contains the source code
