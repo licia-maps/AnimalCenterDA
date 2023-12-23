@@ -1,3 +1,6 @@
+-- File: breeds
+
+-- Figure out the total makeup of each breed in the centre
 select
 	Breed,
     Color,
