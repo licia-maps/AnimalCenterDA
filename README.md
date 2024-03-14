@@ -28,7 +28,7 @@ The dataset contains information about the animals that were taken in by the Aus
 - At least 65.87% of animals are still intact (as opposed to being neutered/spayed).
 - The most common intakes are Yound Adult dogs (35.42%), followed by Pediatric cats (22.59%) and the least common intakes are Mature Adult livestock (only 1 intake) and Senior birds (only 3 intakes).
 - Most intakes are done at 11 AM and the fewest at 5 AM.
-- Most intakes occur in the Afternoon, in Summer, in May.
+- Most intakes occur in the Afternoon, in Summer or in May.
 - The most number of intakes occurred in 2019 and the least in 2024.
 - The pitbull breed has the most behavioural problems
 - The 'Domestic Shorthair Mix' -cat-  is the intake with the highest 'Normal', 'Injured', 'Nursing' and 'Sick' IntakeCondition rates of all intakes
