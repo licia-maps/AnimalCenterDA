@@ -1,4 +1,4 @@
-# About this repository: animal-centre-data
+# About this repository: AnimalCenterDA
 This repository contains a collection of sql scripts I created based on the data I got about the Austin Animal Center (https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics).
 
 ## Folder Structure
